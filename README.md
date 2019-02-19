@@ -74,20 +74,29 @@ https://css-tricks.com/all-about-floats/
 
 # CSS is hard
 
-## Position
-
-https://css-tricks.com/almanac/properties/p/position/
+* you can have as many classes as you want on an element, but only 1 id.
+* ids are unique to each element. 
 
 ## Selectors
 
+* combinators
+* Pseudo-classes
+
 ## Specificity
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. !important
+2. inline styles
+3. id
+4. class
+5. tag name
+6. order
+
+* clear distinct "labels" for clear distinct styles
+* make things less specific, only use classes, unless you need to use something else.
+
+## Position
+
+https://css-tricks.com/almanac/properties/p/position/
 
 ## Links
 
